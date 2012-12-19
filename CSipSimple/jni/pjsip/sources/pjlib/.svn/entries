@@ -1,0 +1,46 @@
+10
+
+dir
+4296
+http://svn.pjsip.org/repos/pjproject/trunk/pjlib
+http://svn.pjsip.org/repos
+
+
+
+2012-11-07T04:56:26.897905Z
+4296
+nanang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+build
+dir
+
+include
+dir
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+docs
+dir
+

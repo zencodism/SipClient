@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2345/trunk/src/modules/audio_coding/codecs/cng/test
+END
+CNG.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2345/trunk/src/modules/audio_coding/codecs/cng/test/CNG.cc
+END
+StdAfx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1405/trunk/src/modules/audio_coding/codecs/cng/test/StdAfx.cc
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/964/trunk/src/modules/audio_coding/codecs/cng/test/StdAfx.h
+END

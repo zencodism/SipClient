@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2939/trunk/src/modules/audio_device/ios
+END
+audio_device_ios.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2939/trunk/src/modules/audio_device/ios/audio_device_ios.cc
+END
+audio_device_ios.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2804/trunk/src/modules/audio_device/ios/audio_device_ios.h
+END
+audio_device_utility_ios.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2939/trunk/src/modules/audio_device/ios/audio_device_utility_ios.cc
+END
+audio_device_utility_ios.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2804/trunk/src/modules/audio_device/ios/audio_device_utility_ios.h
+END

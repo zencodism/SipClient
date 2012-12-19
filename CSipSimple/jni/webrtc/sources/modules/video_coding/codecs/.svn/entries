@@ -1,0 +1,80 @@
+10
+
+dir
+2948
+http://webrtc.googlecode.com/svn/trunk/src/modules/video_coding/codecs
+http://webrtc.googlecode.com/svn
+
+
+
+2012-10-11T16:27:34.549571Z
+2912
+marpan@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4adac7df-926f-26a2-2b94-8c16560cd09d
+
+test
+dir
+
+tools
+dir
+
+interface
+dir
+
+test_framework
+dir
+
+vp8
+dir
+
+OWNERS
+file
+
+
+
+
+2012-11-29T00:37:55.000000Z
+dc48c23ad81faeedcd879a7013047dbf
+2011-08-10T05:16:31.362289Z
+342
+andrew@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79
+
+i420
+dir
+

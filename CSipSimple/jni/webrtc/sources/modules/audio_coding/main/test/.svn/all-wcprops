@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/main/test
+END
+iSACTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/iSACTest.cc
+END
+PCMFile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/PCMFile.cc
+END
+TwoWayCommunication.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/TwoWayCommunication.cc
+END
+iSACTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/iSACTest.h
+END
+PCMFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/PCMFile.h
+END
+TestVADDTX.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1216/trunk/src/modules/audio_coding/main/test/TestVADDTX.h
+END
+ACMTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1405/trunk/src/modules/audio_coding/main/test/ACMTest.cc
+END
+TestStereo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/TestStereo.cc
+END
+utility.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1405/trunk/src/modules/audio_coding/main/test/utility.cc
+END
+TestStereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2544/trunk/src/modules/audio_coding/main/test/TestStereo.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1266/trunk/src/modules/audio_coding/main/test/utility.h
+END
+Tester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2416/trunk/src/modules/audio_coding/main/test/Tester.cc
+END
+APITest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/APITest.cc
+END
+Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2544/trunk/src/modules/audio_coding/main/test/Channel.h
+END
+APITest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2544/trunk/src/modules/audio_coding/main/test/APITest.h
+END
+SpatialAudio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/SpatialAudio.cc
+END
+TimedTrace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1405/trunk/src/modules/audio_coding/main/test/TimedTrace.cc
+END
+SpatialAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1216/trunk/src/modules/audio_coding/main/test/SpatialAudio.h
+END
+TwoWayCommunication.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/TwoWayCommunication.h
+END
+TimedTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/156/trunk/src/modules/audio_coding/main/test/TimedTrace.h
+END
+TestAllCodecs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/main/test/TestAllCodecs.cc
+END
+TestVADDTX.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/main/test/TestVADDTX.cc
+END
+TestAllCodecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2416/trunk/src/modules/audio_coding/main/test/TestAllCodecs.h
+END
+TestFEC.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/TestFEC.cc
+END
+TestFEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1216/trunk/src/modules/audio_coding/main/test/TestFEC.h
+END
+EncodeDecodeTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2625/trunk/src/modules/audio_coding/main/test/EncodeDecodeTest.cc
+END
+ACMTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/156/trunk/src/modules/audio_coding/main/test/ACMTest.h
+END
+EncodeDecodeTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2544/trunk/src/modules/audio_coding/main/test/EncodeDecodeTest.h
+END
+RTPFile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2345/trunk/src/modules/audio_coding/main/test/RTPFile.cc
+END
+RTPFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2012/trunk/src/modules/audio_coding/main/test/RTPFile.h
+END
+Channel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2544/trunk/src/modules/audio_coding/main/test/Channel.cc
+END

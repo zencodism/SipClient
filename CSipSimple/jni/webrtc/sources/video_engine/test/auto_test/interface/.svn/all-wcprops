@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2854/trunk/src/video_engine/test/auto_test/interface
+END
+vie_autotest_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/interface/vie_autotest_windows.h
+END
+vie_autotest_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2715/trunk/src/video_engine/test/auto_test/interface/vie_autotest_defines.h
+END
+vie_window_creator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1923/trunk/src/video_engine/test/auto_test/interface/vie_window_creator.h
+END
+vie_autotest_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/interface/vie_autotest_linux.h
+END
+vie_window_manager_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/interface/vie_window_manager_factory.h
+END
+vie_autotest_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/interface/vie_autotest_android.h
+END
+vie_autotest.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2854/trunk/src/video_engine/test/auto_test/interface/vie_autotest.h
+END
+vie_autotest_window_manager_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/interface/vie_autotest_window_manager_interface.h
+END
+vie_file_based_comparison_tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1597/trunk/src/video_engine/test/auto_test/interface/vie_file_based_comparison_tests.h
+END
+vie_autotest_mac_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2572/trunk/src/video_engine/test/auto_test/interface/vie_autotest_mac_cocoa.h
+END
+vie_autotest_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2126/trunk/src/video_engine/test/auto_test/interface/vie_autotest_main.h
+END

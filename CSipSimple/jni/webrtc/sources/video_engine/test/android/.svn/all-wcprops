@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2925/trunk/src/video_engine/test/android
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2862/trunk/src/video_engine/test/android/project.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2892/trunk/src/video_engine/test/android/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2862/trunk/src/video_engine/test/android/build.xml
+END

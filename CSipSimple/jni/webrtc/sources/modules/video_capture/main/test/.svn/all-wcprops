@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2666/trunk/src/modules/video_capture/main/test
+END
+video_capture_main_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2572/trunk/src/modules/video_capture/main/test/video_capture_main_mac.mm
+END
+video_capture_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2666/trunk/src/modules/video_capture/main/test/video_capture_unittest.cc
+END

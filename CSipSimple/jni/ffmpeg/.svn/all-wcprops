@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2018/trunk/CSipSimple/jni/ffmpeg
+END
+build_x264.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1941/trunk/CSipSimple/jni/ffmpeg/build_x264.sh
+END
+build_ffmpeg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1991/trunk/CSipSimple/jni/ffmpeg/build_ffmpeg.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2018/trunk/CSipSimple/jni/ffmpeg/Makefile
+END

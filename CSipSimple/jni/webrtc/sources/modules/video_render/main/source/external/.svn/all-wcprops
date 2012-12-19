@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2425/trunk/src/modules/video_render/main/source/external
+END
+video_render_external_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2425/trunk/src/modules/video_render/main/source/external/video_render_external_impl.cc
+END
+video_render_external_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2425/trunk/src/modules/video_render/main/source/external/video_render_external_impl.h
+END

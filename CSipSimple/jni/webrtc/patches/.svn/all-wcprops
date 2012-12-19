@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2006/trunk/CSipSimple/jni/webrtc/patches
+END
+006use_c_ns_neon.diff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1931/trunk/CSipSimple/jni/webrtc/patches/006use_c_ns_neon.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1943/trunk/CSipSimple/jni/webrtc/patches/series
+END
+002libyuv_change_directory.diff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1362/trunk/CSipSimple/jni/webrtc/patches/002libyuv_change_directory.diff
+END
+000amreabi_r1789_bug.diff
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1927/trunk/CSipSimple/jni/webrtc/patches/000amreabi_r1789_bug.diff
+END
+003libyuv_misusage_rotation.diff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2006/trunk/CSipSimple/jni/webrtc/patches/003libyuv_misusage_rotation.diff
+END
+005more_relative_folder_neon.diff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1862/trunk/CSipSimple/jni/webrtc/patches/005more_relative_folder_neon.diff
+END
+007cpu-features_workaround_buggy_pthread_once.diff
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1971/trunk/CSipSimple/jni/webrtc/patches/007cpu-features_workaround_buggy_pthread_once.diff
+END
+004isac_folder_rename_bug.diff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1927/trunk/CSipSimple/jni/webrtc/patches/004isac_folder_rename_bug.diff
+END

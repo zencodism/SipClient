@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1940/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/src/pjmedia-audiodev
+END
+opensl_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1940/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/src/pjmedia-audiodev/opensl_dev.c
+END
+android_jni_dev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1915/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/src/pjmedia-audiodev/android_jni_dev.cpp
+END

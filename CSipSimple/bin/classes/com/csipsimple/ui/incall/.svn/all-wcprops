@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2014/trunk/CSipSimple/src/com/csipsimple/ui/incall
+END
+InCallControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1746/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallControls.java
+END
+InCallAnswerControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallAnswerControls.java
+END
+CallProximityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2014/trunk/CSipSimple/src/com/csipsimple/ui/incall/CallProximityManager.java
+END
+InCallCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2006/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallCard.java
+END
+DtmfDialogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1746/trunk/CSipSimple/src/com/csipsimple/ui/incall/DtmfDialogFragment.java
+END
+InCallActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2006/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallActivity.java
+END
+AccelerometerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/ui/incall/AccelerometerListener.java
+END
+InCallMediaControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1843/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallMediaControl.java
+END
+IOnCallActionTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1973/trunk/CSipSimple/src/com/csipsimple/ui/incall/IOnCallActionTrigger.java
+END
+InCallInfoGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1775/trunk/CSipSimple/src/com/csipsimple/ui/incall/InCallInfoGrid.java
+END

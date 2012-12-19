@@ -1,0 +1,124 @@
+10
+
+dir
+2025
+http://csipsimple.googlecode.com/svn/trunk/ActionBarSherlock/res
+http://csipsimple.googlecode.com/svn
+
+
+
+2012-08-27T16:32:18.174343Z
+1848
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+values-w360dp
+dir
+
+values-large-mdpi-1024x600
+dir
+
+drawable
+dir
+
+values-w480dp
+dir
+
+drawable-v11
+dir
+
+values-large
+dir
+
+drawable-nodpi
+dir
+
+layout-land
+dir
+
+drawable-nodpi-v11
+dir
+
+drawable-mdpi
+dir
+
+values-land
+dir
+
+layout
+dir
+
+layout-v14
+dir
+
+values-normal
+dir
+
+values-large-land-hdpi-1024x600
+dir
+
+drawable-xhdpi
+dir
+
+values-large-land-mdpi-1024x600
+dir
+
+layout-xlarge
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+values-large-land
+dir
+
+drawable-hdpi
+dir
+
+values-v11
+dir
+
+layout-large
+dir
+
+values-v13
+dir
+
+values-v14
+dir
+
+drawable-ldpi
+dir
+
+values-large-hdpi-1024x600
+dir
+
+values-w500dp
+dir
+
+values-w600dp
+dir
+
+color
+dir
+
+values-xlarge
+dir
+

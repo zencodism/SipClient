@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1973/trunk/CSipSimple/res/menu
+END
+in_call_controls_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1721/trunk/CSipSimple/res/menu/in_call_controls_menu.xml
+END
+in_call_card_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1973/trunk/CSipSimple/res/menu/in_call_card_menu.xml
+END
+fav_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1761/trunk/CSipSimple/res/menu/fav_menu.xml
+END
+call_log_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1463/trunk/CSipSimple/res/menu/call_log_menu.xml
+END
+main_prefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1784/trunk/CSipSimple/res/menu/main_prefs.xml
+END

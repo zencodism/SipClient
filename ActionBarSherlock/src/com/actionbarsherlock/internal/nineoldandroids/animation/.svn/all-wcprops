@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation
+END
+PropertyValuesHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder.java
+END
+Keyframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe.java
+END
+TypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/TypeEvaluator.java
+END
+FloatKeyframeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet.java
+END
+AnimatorSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet.java
+END
+ValueAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/ValueAnimator.java
+END
+FloatEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/Animator.java
+END
+IntKeyframeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet.java
+END
+IntEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator.java
+END
+KeyframeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet.java
+END
+ObjectAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/ObjectAnimator.java
+END
+AnimatorListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter.java
+END

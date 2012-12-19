@@ -1,0 +1,98 @@
+10
+
+dir
+4296
+http://svn.pjsip.org/repos/pjproject/trunk/third_party
+http://svn.pjsip.org/repos
+
+
+
+2012-08-31T06:29:13.170668Z
+4239
+nanang
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+gsm
+dir
+
+lib
+dir
+
+BaseClasses
+dir
+
+bin
+dir
+
+resample
+dir
+
+srtp
+dir
+
+ilbc
+dir
+
+README.txt
+file
+
+
+
+
+2012-11-29T00:37:17.000000Z
+62d2d909bb2842156b8fd76bd21a121f
+2008-01-23T20:17:42.299488Z
+1730
+bennylp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+407
+
+build
+dir
+
+mp3
+dir
+
+milenage
+dir
+
+g7221
+dir
+
+speex
+dir
+

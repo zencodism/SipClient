@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2027/trunk/CSipSimple/jni/pjsip/patches
+END
+012refine_find_for_incoming_acc.diff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2002/trunk/CSipSimple/jni/pjsip/patches/012refine_find_for_incoming_acc.diff
+END
+003rtp_type_strip.diff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1932/trunk/CSipSimple/jni/pjsip/patches/003rtp_type_strip.diff
+END
+004clean_all_registrations.diff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2002/trunk/CSipSimple/jni/pjsip/patches/004clean_all_registrations.diff
+END
+010os_unix_joining_self.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1984/trunk/CSipSimple/jni/pjsip/patches/010os_unix_joining_self.diff
+END
+006no_update_option.diff
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1995/trunk/CSipSimple/jni/pjsip/patches/006no_update_option.diff
+END
+005fix_contact_header_escape.diff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1763/trunk/CSipSimple/jni/pjsip/patches/005fix_contact_header_escape.diff
+END
+008sdp_in_options.diff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1911/trunk/CSipSimple/jni/pjsip/patches/008sdp_in_options.diff
+END
+000android_os.diff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1924/trunk/CSipSimple/jni/pjsip/patches/000android_os.diff
+END
+002pjsip-webrtc-aec.diff
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1948/trunk/CSipSimple/jni/pjsip/patches/002pjsip-webrtc-aec.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2016/trunk/CSipSimple/jni/pjsip/patches/series
+END
+011add_vpx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2027/trunk/CSipSimple/jni/pjsip/patches/011add_vpx_type.h
+END
+009silk_custo.diff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1995/trunk/CSipSimple/jni/pjsip/patches/009silk_custo.diff
+END

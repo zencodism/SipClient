@@ -1,0 +1,80 @@
+10
+
+dir
+4296
+http://svn.pjsip.org/repos/pjproject/trunk/pjmedia
+http://svn.pjsip.org/repos
+
+
+
+2012-11-03T03:32:09.560470Z
+4293
+ming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+build
+dir
+
+include
+dir
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+docs
+dir
+
+README.txt
+file
+
+
+
+
+2012-11-29T00:37:14.000000Z
+7b65409f4c973ea8586835fa30b90623
+2006-03-04T20:43:52.537238Z
+278
+bennylp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+

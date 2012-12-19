@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2947/trunk/src/common_video
+END
+common_video.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2781/trunk/src/common_video/common_video.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/342/trunk/src/common_video/OWNERS
+END
+i420_video_frame_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2924/trunk/src/common_video/i420_video_frame_unittest.cc
+END
+plane_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2924/trunk/src/common_video/plane_unittest.cc
+END
+i420_video_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2924/trunk/src/common_video/i420_video_frame.cc
+END
+plane.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2891/trunk/src/common_video/plane.cc
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2924/trunk/src/common_video/plane.h
+END

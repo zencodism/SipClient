@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2534/trunk/src/modules/video_processing/main/test/unit_test
+END
+writeYUV420file.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/156/trunk/src/modules/video_processing/main/test/unit_test/writeYUV420file.m
+END
+readYUV420file.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/156/trunk/src/modules/video_processing/main/test/unit_test/readYUV420file.m
+END
+unit_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2534/trunk/src/modules/video_processing/main/test/unit_test/unit_test.cc
+END
+denoising_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2315/trunk/src/modules/video_processing/main/test/unit_test/denoising_test.cc
+END
+content_metrics_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1791/trunk/src/modules/video_processing/main/test/unit_test/content_metrics_test.cc
+END
+unit_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1217/trunk/src/modules/video_processing/main/test/unit_test/unit_test.h
+END
+createTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/156/trunk/src/modules/video_processing/main/test/unit_test/createTable.m
+END
+color_enhancement_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2315/trunk/src/modules/video_processing/main/test/unit_test/color_enhancement_test.cc
+END
+brightness_detection_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/156/trunk/src/modules/video_processing/main/test/unit_test/brightness_detection_test.cc
+END
+deflickering_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2315/trunk/src/modules/video_processing/main/test/unit_test/deflickering_test.cc
+END

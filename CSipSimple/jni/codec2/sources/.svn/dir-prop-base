@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 132
+*.raw
+*.txt
+*.mdl
+*.png
+*.wav
+*.bit
+c2sim
+c2demo
+c2enc
+c2dec
+.deps
+Makefile
+codebook.c
+codebookd.c
+codebookdvq.c
+generate_codebook
+
+
+END

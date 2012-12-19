@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da
+END
+acct_status_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/acct_status_strings.xml
+END
+wizard_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/wizard_strings.xml
+END
+wizard_authorization_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/wizard_authorization_strings.xml
+END
+log_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/log_strings.xml
+END
+wizard_basic_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/wizard_basic_strings.xml
+END
+wizard_callcentric_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/wizard_callcentric_strings.xml
+END
+xliff_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/xliff_strings.xml
+END
+wizard_iinet_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values-da/wizard_iinet_strings.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/main/test/QA
+END
+runiSACfault.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/main/test/QA/runiSACfault.txt
+END
+runiSACfixfloat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/main/test/QA/runiSACfixfloat.txt
+END
+runiSACLongtest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/main/test/QA/runiSACLongtest.txt
+END

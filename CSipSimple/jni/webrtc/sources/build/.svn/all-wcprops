@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2945/trunk/src/build
+END
+merge_voice_libs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2707/trunk/src/build/merge_voice_libs.gyp
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2502/trunk/src/build/version.py
+END
+protoc.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/817/trunk/src/build/protoc.gypi
+END
+no_op.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2539/trunk/src/build/no_op.cc
+END
+common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2945/trunk/src/build/common.gypi
+END
+merge_libs.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1487/trunk/src/build/merge_libs.py
+END
+arm_neon.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2917/trunk/src/build/arm_neon.gypi
+END
+merge_libs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2777/trunk/src/build/merge_libs.gyp
+END
+generate_asm_header.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2303/trunk/src/build/generate_asm_header.py
+END

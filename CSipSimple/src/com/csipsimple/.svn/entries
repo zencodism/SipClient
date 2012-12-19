@@ -1,0 +1,58 @@
+10
+
+dir
+2036
+http://csipsimple.googlecode.com/svn/trunk/CSipSimple/src/com/csipsimple
+http://csipsimple.googlecode.com/svn
+
+
+
+2012-12-02T13:51:36.875663Z
+2034
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+ui
+dir
+
+utils
+dir
+
+service
+dir
+
+plugins
+dir
+
+models
+dir
+
+wizards
+dir
+
+pjsip
+dir
+
+db
+dir
+
+widgets
+dir
+
+api
+dir
+

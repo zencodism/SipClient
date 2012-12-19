@@ -1,0 +1,43 @@
+10
+
+dir
+4296
+http://svn.pjsip.org/repos/pjproject/trunk/pjmedia/src
+http://svn.pjsip.org/repos
+
+
+
+2012-11-03T03:32:09.560470Z
+4293
+ming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+pjmedia-codec
+dir
+
+pjmedia-audiodev
+dir
+
+pjmedia
+dir
+
+pjmedia-videodev
+dir
+
+test
+dir
+

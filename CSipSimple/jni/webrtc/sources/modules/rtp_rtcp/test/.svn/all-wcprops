@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2880/trunk/src/modules/rtp_rtcp/test
+END
+bwe_standalone.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/589/trunk/src/modules/rtp_rtcp/test/bwe_standalone.gypi
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2000/trunk/CSipSimple/src/com/csipsimple/widgets
+END
+ScreenLocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/widgets/ScreenLocker.java
+END
+SlidingTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1742/trunk/CSipSimple/src/com/csipsimple/widgets/SlidingTab.java
+END
+EditSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1732/trunk/CSipSimple/src/com/csipsimple/widgets/EditSipUri.java
+END
+ShortcutWidgetConfigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1768/trunk/CSipSimple/src/com/csipsimple/widgets/ShortcutWidgetConfigure.java
+END
+RegistrationNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1603/trunk/CSipSimple/src/com/csipsimple/widgets/RegistrationNotification.java
+END
+DialerCallBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1659/trunk/CSipSimple/src/com/csipsimple/widgets/DialerCallBar.java
+END
+AlternateUnlocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1735/trunk/CSipSimple/src/com/csipsimple/widgets/AlternateUnlocker.java
+END
+FitTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/FitTextView.java
+END
+DontPressWithParentImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/DontPressWithParentImageView.java
+END
+DontPressWithParentLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/DontPressWithParentLayout.java
+END
+QuickActionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/QuickActionItem.java
+END
+ShortcutWidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1768/trunk/CSipSimple/src/com/csipsimple/widgets/ShortcutWidgetProvider.java
+END
+MaxScaleImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1738/trunk/CSipSimple/src/com/csipsimple/widgets/MaxScaleImageView.java
+END
+Dialpad.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1816/trunk/CSipSimple/src/com/csipsimple/widgets/Dialpad.java
+END
+MarqueeTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/MarqueeTextView.java
+END
+PasswordPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1835/trunk/CSipSimple/src/com/csipsimple/widgets/PasswordPreference.java
+END
+AccountWidgetConfigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1896/trunk/CSipSimple/src/com/csipsimple/widgets/AccountWidgetConfigure.java
+END
+CheckableListItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1221/trunk/CSipSimple/src/com/csipsimple/widgets/CheckableListItemView.java
+END
+DragnDropListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1514/trunk/CSipSimple/src/com/csipsimple/widgets/DragnDropListView.java
+END
+CSSListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1431/trunk/CSipSimple/src/com/csipsimple/widgets/CSSListFragment.java
+END
+IOnLeftRightChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1587/trunk/CSipSimple/src/com/csipsimple/widgets/IOnLeftRightChoice.java
+END
+SlidingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/widgets/SlidingPanel.java
+END
+SeekBarPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1843/trunk/CSipSimple/src/com/csipsimple/widgets/SeekBarPreference.java
+END
+AccountChooserButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2000/trunk/CSipSimple/src/com/csipsimple/widgets/AccountChooserButton.java
+END
+AccountWidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1642/trunk/CSipSimple/src/com/csipsimple/widgets/AccountWidgetProvider.java
+END
+HorizontalQuickActionWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1587/trunk/CSipSimple/src/com/csipsimple/widgets/HorizontalQuickActionWindow.java
+END

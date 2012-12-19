@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2031/trunk/CSipSimple/src/com/csipsimple/service
+END
+DeviceStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1641/trunk/CSipSimple/src/com/csipsimple/service/DeviceStateReceiver.java
+END
+SipNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1930/trunk/CSipSimple/src/com/csipsimple/service/SipNotifications.java
+END
+OutgoingCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1962/trunk/CSipSimple/src/com/csipsimple/service/OutgoingCall.java
+END
+PreferenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1282/trunk/CSipSimple/src/com/csipsimple/service/PreferenceProvider.java
+END
+MediaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1915/trunk/CSipSimple/src/com/csipsimple/service/MediaManager.java
+END
+SipWakeLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/service/SipWakeLock.java
+END
+SipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2031/trunk/CSipSimple/src/com/csipsimple/service/SipService.java
+END
+HeadsetButtonReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/service/HeadsetButtonReceiver.java
+END
+Downloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1862/trunk/CSipSimple/src/com/csipsimple/service/Downloader.java
+END
+PresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1634/trunk/CSipSimple/src/com/csipsimple/service/PresenceManager.java
+END

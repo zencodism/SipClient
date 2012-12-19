@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/freetel/!svn/ver/289/codec2/src
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/226/codec2/src/lsp.c
+END
+generate_codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/freetel/!svn/ver/251/codec2/src/generate_codebook.c
+END
+codec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/freetel/!svn/ver/283/codec2/src/codec2.c
+END
+listensim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/freetel/!svn/ver/263/codec2/src/listensim.sh
+END
+fq20.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/166/codec2/src/fq20.sh
+END
+codec2_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/freetel/!svn/ver/283/codec2/src/codec2_internal.h
+END
+phase.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/283/codec2/src/phase.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/freetel/!svn/ver/289/codec2/src/Makefile.in
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/freetel/!svn/ver/285/codec2/src/interp.c
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/201/codec2/src/lsp.h
+END
+comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/201/codec2/src/comp.h
+END
+codec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/freetel/!svn/ver/246/codec2/src/codec2.h
+END
+phase.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/242/codec2/src/phase.h
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/freetel/!svn/ver/283/codec2/src/interp.h
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/freetel/!svn/ver/260/codec2/src/kiss_fft.c
+END
+c2demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/freetel/!svn/ver/224/codec2/src/c2demo.c
+END
+c2sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/283/codec2/src/c2sim.c
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/freetel/!svn/ver/260/codec2/src/kiss_fft.h
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/196/codec2/src/pack.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/283/codec2/src/lpc.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/260/codec2/src/fft.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/freetel/!svn/ver/251/codec2/src/defines.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/283/codec2/src/lpc.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/260/codec2/src/fft.h
+END
+quantise.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/freetel/!svn/ver/260/codec2/src/quantise.c
+END
+nlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/260/codec2/src/nlp.c
+END
+c2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/260/codec2/src/c2enc.c
+END
+postfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/freetel/!svn/ver/216/codec2/src/postfilter.c
+END
+sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/260/codec2/src/sine.c
+END
+quantise.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/freetel/!svn/ver/251/codec2/src/quantise.h
+END
+nlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/freetel/!svn/ver/205/codec2/src/nlp.h
+END
+postfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/freetel/!svn/ver/201/codec2/src/postfilter.h
+END
+sine.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/236/codec2/src/sine.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/283/codec2/src/dump.c
+END
+glottal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/freetel/!svn/ver/252/codec2/src/glottal.c
+END
+dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/283/codec2/src/dump.h
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/freetel/!svn/ver/260/codec2/src/_kiss_fft_guts.h
+END
+c2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/freetel/!svn/ver/260/codec2/src/c2dec.c
+END
+sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/freetel/!svn/ver/263/codec2/src/sim.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/freetel/!svn/ver/289/codec2/src/Makefile.am
+END

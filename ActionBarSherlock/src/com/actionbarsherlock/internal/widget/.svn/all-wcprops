@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1846/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget
+END
+IcsLinearLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1846/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsLinearLayout.java
+END
+FakeDialogPhoneWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow.java
+END
+IcsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsView.java
+END
+IcsAdapterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsAdapterView.java
+END
+CapitalizingButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/CapitalizingButton.java
+END
+IcsSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsSpinner.java
+END
+CapitalizingTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/CapitalizingTextView.java
+END
+ScrollingTabContainerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1777/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/ScrollingTabContainerView.java
+END
+AbsActionBarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1777/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/AbsActionBarView.java
+END
+IcsListPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsListPopupWindow.java
+END
+IcsProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1433/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsProgressBar.java
+END
+ActionBarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1445/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/ActionBarView.java
+END
+ActionBarContextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1434/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/ActionBarContextView.java
+END
+IcsAbsSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1687/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/IcsAbsSpinner.java
+END
+ActionBarContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1433/trunk/ActionBarSherlock/src/com/actionbarsherlock/internal/widget/ActionBarContainer.java
+END

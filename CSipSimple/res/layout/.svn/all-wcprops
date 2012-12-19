@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2019/trunk/CSipSimple/res/layout
+END
+generic_list_progress_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1431/trunk/CSipSimple/res/layout/generic_list_progress_view.xml
+END
+compose_message_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1643/trunk/CSipSimple/res/layout/compose_message_activity.xml
+END
+warning_sdcard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/warning_sdcard.xml
+END
+generic_add_header_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1406/trunk/CSipSimple/res/layout/generic_add_header_list.xml
+END
+wizard_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1642/trunk/CSipSimple/res/layout/wizard_row.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/help.xml
+END
+wizard_prefs_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/wizard_prefs_base.xml
+END
+edit_filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1465/trunk/CSipSimple/res/layout/edit_filter.xml
+END
+audio_test_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/audio_test_view.xml
+END
+accounts_chooser_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1565/trunk/CSipSimple/res/layout/accounts_chooser_view.xml
+END
+contact_phone_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1897/trunk/CSipSimple/res/layout/contact_phone_list_item.xml
+END
+call_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1406/trunk/CSipSimple/res/layout/call_detail.xml
+END
+message_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1220/trunk/CSipSimple/res/layout/message_list_item.xml
+END
+in_call_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/in_call_media.xml
+END
+download_notif.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2019/trunk/CSipSimple/res/layout/download_notif.xml
+END
+sip_home_one_pane.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1163/trunk/CSipSimple/res/layout/sip_home_one_pane.xml
+END
+accounts_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1171/trunk/CSipSimple/res/layout/accounts_view.xml
+END
+help_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/help_list_row.xml
+END
+widget_shortcut.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1768/trunk/CSipSimple/res/layout/widget_shortcut.xml
+END
+filters_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1514/trunk/CSipSimple/res/layout/filters_list_item.xml
+END
+alternate_unlocker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1734/trunk/CSipSimple/res/layout/alternate_unlocker.xml
+END
+conversation_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1406/trunk/CSipSimple/res/layout/conversation_list_item.xml
+END
+call_log_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1406/trunk/CSipSimple/res/layout/call_log_list_item.xml
+END
+wizard_account_creation_webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1549/trunk/CSipSimple/res/layout/wizard_account_creation_webview.xml
+END
+quickaction_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1163/trunk/CSipSimple/res/layout/quickaction_item.xml
+END
+in_call_card.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1845/trunk/CSipSimple/res/layout/in_call_card.xml
+END
+call_detail_history_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1163/trunk/CSipSimple/res/layout/call_detail_history_item.xml
+END
+themed_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1816/trunk/CSipSimple/res/layout/themed_tab.xml
+END
+dialpad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1732/trunk/CSipSimple/res/layout/dialpad.xml
+END
+in_call_drop_zones.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1775/trunk/CSipSimple/res/layout/in_call_drop_zones.xml
+END
+recipient_filter_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1176/trunk/CSipSimple/res/layout/recipient_filter_item.xml
+END
+quickaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/quickaction.xml
+END
+accounts_chooser_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1507/trunk/CSipSimple/res/layout/accounts_chooser_list_item.xml
+END
+sip_home_dual_pane.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1946/trunk/CSipSimple/res/layout/sip_home_dual_pane.xml
+END
+notification_registration_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1249/trunk/CSipSimple/res/layout/notification_registration_layout.xml
+END
+account_filters_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1514/trunk/CSipSimple/res/layout/account_filters_view.xml
+END
+edit_sip_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1732/trunk/CSipSimple/res/layout/edit_sip_uri.xml
+END
+accounts_edit_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1431/trunk/CSipSimple/res/layout/accounts_edit_list.xml
+END
+dialpad_compose_4x4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1732/trunk/CSipSimple/res/layout/dialpad_compose_4x4.xml
+END
+accounts_chooser_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1565/trunk/CSipSimple/res/layout/accounts_chooser_fragment.xml
+END
+search_contact_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1897/trunk/CSipSimple/res/layout/search_contact_list_item.xml
+END
+accounts_edit_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1721/trunk/CSipSimple/res/layout/accounts_edit_list_item.xml
+END
+call_log_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1431/trunk/CSipSimple/res/layout/call_log_fragment.xml
+END
+warning_privileged_intent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/warning_privileged_intent.xml
+END
+dialpad_additional_buttons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1816/trunk/CSipSimple/res/layout/dialpad_additional_buttons.xml
+END
+in_call_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1723/trunk/CSipSimple/res/layout/in_call_main.xml
+END
+warning_container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1645/trunk/CSipSimple/res/layout/warning_container.xml
+END
+warning_no_stun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/warning_no_stun.xml
+END
+invalid_preference_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/invalid_preference_row.xml
+END
+fast_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1466/trunk/CSipSimple/res/layout/fast_settings.xml
+END
+fav_presence_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/fav_presence_item.xml
+END
+codecs_pager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1318/trunk/CSipSimple/res/layout/codecs_pager.xml
+END
+in_call_dialpad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1789/trunk/CSipSimple/res/layout/in_call_dialpad.xml
+END
+outgoing_account_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1506/trunk/CSipSimple/res/layout/outgoing_account_list_item.xml
+END
+dialer_digit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1983/trunk/CSipSimple/res/layout/dialer_digit.xml
+END
+widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1642/trunk/CSipSimple/res/layout/widget.xml
+END
+valid_preference_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/valid_preference_row.xml
+END
+add_account_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/add_account_wizard.xml
+END
+fav_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1768/trunk/CSipSimple/res/layout/fav_list_item.xml
+END
+icon_preference_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/icon_preference_screen.xml
+END
+warning_vpn_ics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/warning_vpn_ics.xml
+END
+legal_information.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1163/trunk/CSipSimple/res/layout/legal_information.xml
+END
+codecs_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1318/trunk/CSipSimple/res/layout/codecs_list.xml
+END
+w_mondotalk_create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/w_mondotalk_create.xml
+END
+message_list_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1431/trunk/CSipSimple/res/layout/message_list_fragment.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1215/trunk/CSipSimple/res/layout/faq.xml
+END
+account_chooser_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1732/trunk/CSipSimple/res/layout/account_chooser_button.xml
+END
+codecs_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1391/trunk/CSipSimple/res/layout/codecs_list_item.xml
+END
+pickup_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1936/trunk/CSipSimple/res/layout/pickup_uri.xml
+END
+alert_dialog_text_entry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1278/trunk/CSipSimple/res/layout/alert_dialog_text_entry.xml
+END
+outgoing_call_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1506/trunk/CSipSimple/res/layout/outgoing_call_view.xml
+END
+dialpad_compose_3x5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1732/trunk/CSipSimple/res/layout/dialpad_compose_3x5.xml
+END

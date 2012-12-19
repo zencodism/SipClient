@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2767/trunk/src/modules/video_capture/main/source/Windows
+END
+device_info_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2767/trunk/src/modules/video_capture/main/source/Windows/device_info_windows.cc
+END
+sink_filter_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Windows/sink_filter_windows.h
+END
+video_capture_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1818/trunk/src/modules/video_capture/main/source/Windows/video_capture_windows.h
+END
+device_info_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1811/trunk/src/modules/video_capture/main/source/Windows/device_info_windows.h
+END
+video_capture_factory_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1818/trunk/src/modules/video_capture/main/source/Windows/video_capture_factory_windows.cc
+END
+help_functions_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2000/trunk/src/modules/video_capture/main/source/Windows/help_functions_windows.cc
+END
+direct_show_base_classes.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2598/trunk/src/modules/video_capture/main/source/Windows/direct_show_base_classes.gyp
+END
+help_functions_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Windows/help_functions_windows.h
+END
+capture_delay_values_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Windows/capture_delay_values_windows.h
+END
+video_capture_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2526/trunk/src/modules/video_capture/main/source/Windows/video_capture_windows.cc
+END
+sink_filter_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2526/trunk/src/modules/video_capture/main/source/Windows/sink_filter_windows.cc
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA
+END
+ListOfTestCases.xls
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/ListOfTestCases.xls
+END
+diffiSACPLC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/diffiSACPLC.txt
+END
+diffiSAC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/diffiSAC.txt
+END
+ChannelFiles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/ChannelFiles.txt
+END
+runiSACRate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACRate.txt
+END
+runiSACfault.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACfault.txt
+END
+runiSACfixfloat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACfixfloat.txt
+END
+InputFiles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/InputFiles.txt
+END
+runiSACPLC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACPLC.txt
+END
+runiSACNB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACNB.txt
+END
+runiSACLongtest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/runiSACLongtest.txt
+END
+InputFilesFew.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2584/trunk/src/modules/audio_coding/codecs/isac/fix/test/QA/InputFilesFew.txt
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2946/trunk/src/modules/remote_bitrate_estimator
+END
+overuse_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2931/trunk/src/modules/remote_bitrate_estimator/overuse_detector.h
+END
+bitrate_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2375/trunk/src/modules/remote_bitrate_estimator/bitrate_estimator.h
+END
+remote_bitrate_estimator_multi_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2838/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator_multi_stream.h
+END
+rtp_to_ntp_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2828/trunk/src/modules/remote_bitrate_estimator/rtp_to_ntp_unittest.cc
+END
+rtp_to_ntp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2828/trunk/src/modules/remote_bitrate_estimator/rtp_to_ntp.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2375/trunk/src/modules/remote_bitrate_estimator/OWNERS
+END
+remote_bitrate_estimator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2946/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator_unittest.cc
+END
+remote_rate_control.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2931/trunk/src/modules/remote_bitrate_estimator/remote_rate_control.cc
+END
+remote_rate_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2931/trunk/src/modules/remote_bitrate_estimator/remote_rate_control.h
+END
+remote_bitrate_estimator_single_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2946/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator_single_stream.cc
+END
+remote_bitrate_estimator_single_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2946/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator_single_stream.h
+END
+remote_bitrate_estimator.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2867/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator.gypi
+END
+bitrate_estimator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2741/trunk/src/modules/remote_bitrate_estimator/bitrate_estimator_unittest.cc
+END
+overuse_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2931/trunk/src/modules/remote_bitrate_estimator/overuse_detector.cc
+END
+remote_bitrate_estimator_multi_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2946/trunk/src/modules/remote_bitrate_estimator/remote_bitrate_estimator_multi_stream.cc
+END
+bitrate_estimator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2742/trunk/src/modules/remote_bitrate_estimator/bitrate_estimator.cc
+END

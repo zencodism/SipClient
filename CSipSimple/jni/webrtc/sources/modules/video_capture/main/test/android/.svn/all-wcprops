@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/731/trunk/src/modules/video_capture/main/test/android
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/AndroidManifest.xml
+END

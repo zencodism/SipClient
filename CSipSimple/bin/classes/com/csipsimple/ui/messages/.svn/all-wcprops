@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/messages
+END
+MessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/messages/MessageAdapter.java
+END
+MessageFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1659/trunk/CSipSimple/src/com/csipsimple/ui/messages/MessageFragment.java
+END
+ConversationsListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1431/trunk/CSipSimple/src/com/csipsimple/ui/messages/ConversationsListFragment.java
+END
+MessageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/messages/MessageActivity.java
+END
+ConverstationsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/messages/ConverstationsAdapter.java
+END

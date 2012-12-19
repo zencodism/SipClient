@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/731/trunk/src/modules/video_capture/main/test/android/jni
+END
+org_webrtc_capturemoduleandroidtest_VideoCaptureModuleTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/jni/org_webrtc_capturemoduleandroidtest_VideoCaptureModuleTest.h
+END
+video_capture_module_android_test_jni.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/731/trunk/src/modules/video_capture/main/test/android/jni/video_capture_module_android_test_jni.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/357/trunk/src/modules/video_capture/main/test/android/jni/Android.mk
+END

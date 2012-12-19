@@ -1,0 +1,129 @@
+10
+
+dir
+2036
+http://csipsimple.googlecode.com/svn/trunk/CSipSimple/src/com/csipsimple/ui
+http://csipsimple.googlecode.com/svn
+
+
+
+2012-11-30T23:11:43.501626Z
+2027
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+incall
+dir
+
+favorites
+dir
+
+SipHome.java
+file
+
+
+
+
+2012-11-29T00:36:40.000000Z
+de386be8e8a6615755d01e5d2eae54c0
+2012-10-14T20:55:29.288639Z
+1963
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38519
+
+messages
+dir
+
+outgoingcall
+dir
+
+PickupSipUri.java
+file
+
+
+
+
+2012-11-29T00:36:40.000000Z
+c73470046f26d346804f0215ad9cd69b
+2012-08-15T19:41:30.218034Z
+1775
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3550
+
+warnings
+dir
+
+help
+dir
+
+filters
+dir
+
+account
+dir
+
+calllog
+dir
+
+dialpad
+dir
+
+prefs
+dir
+

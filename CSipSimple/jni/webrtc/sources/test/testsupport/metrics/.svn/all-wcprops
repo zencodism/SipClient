@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2534/trunk/src/test/testsupport/metrics
+END
+video_metrics_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2446/trunk/src/test/testsupport/metrics/video_metrics_unittest.cc
+END
+video_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2534/trunk/src/test/testsupport/metrics/video_metrics.cc
+END
+video_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2446/trunk/src/test/testsupport/metrics/video_metrics.h
+END

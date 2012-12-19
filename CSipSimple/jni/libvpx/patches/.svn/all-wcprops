@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2009/trunk/CSipSimple/jni/libvpx/patches
+END
+001toolchain_static_lib.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2009/trunk/CSipSimple/jni/libvpx/patches/001toolchain_static_lib.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2009/trunk/CSipSimple/jni/libvpx/patches/series
+END
+000toolchain_for_embedding.diff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1990/trunk/CSipSimple/jni/libvpx/patches/000toolchain_for_embedding.diff
+END

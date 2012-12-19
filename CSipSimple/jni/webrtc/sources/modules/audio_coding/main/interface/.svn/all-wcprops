@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2449/trunk/src/modules/audio_coding/main/interface
+END
+audio_coding_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2449/trunk/src/modules/audio_coding/main/interface/audio_coding_module.h
+END
+audio_coding_module_typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1408/trunk/src/modules/audio_coding/main/interface/audio_coding_module_typedefs.h
+END

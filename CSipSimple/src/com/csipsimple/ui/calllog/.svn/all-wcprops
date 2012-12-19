@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2011/trunk/CSipSimple/src/com/csipsimple/ui/calllog
+END
+CallLogAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1901/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogAdapter.java
+END
+CallLogDetailsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogDetailsActivity.java
+END
+CallDetailHistoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallDetailHistoryAdapter.java
+END
+CallLogGroupBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1736/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogGroupBuilder.java
+END
+CallTypeIconsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2011/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallTypeIconsView.java
+END
+CallLogListItemViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1220/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogListItemViews.java
+END
+GroupingListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/calllog/GroupingListAdapter.java
+END
+CallLogDetailsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogDetailsFragment.java
+END
+CallLogListItemHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1821/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogListItemHelper.java
+END
+PhoneCallDetailsViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/calllog/PhoneCallDetailsViews.java
+END
+PhoneCallDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/calllog/PhoneCallDetails.java
+END
+PhoneCallDetailsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/calllog/PhoneCallDetailsHelper.java
+END
+CallLogListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1761/trunk/CSipSimple/src/com/csipsimple/ui/calllog/CallLogListFragment.java
+END

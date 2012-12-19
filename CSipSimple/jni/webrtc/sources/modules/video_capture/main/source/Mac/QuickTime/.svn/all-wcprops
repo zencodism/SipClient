@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2569/trunk/src/modules/video_capture/main/source/Mac/QuickTime
+END
+video_capture_quick_time_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1811/trunk/src/modules/video_capture/main/source/Mac/QuickTime/video_capture_quick_time_info.cc
+END
+video_capture_quick_time_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/QuickTime/video_capture_quick_time_info.h
+END
+video_capture_quick_time.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2569/trunk/src/modules/video_capture/main/source/Mac/QuickTime/video_capture_quick_time.cc
+END
+video_capture_quick_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Mac/QuickTime/video_capture_quick_time.h
+END

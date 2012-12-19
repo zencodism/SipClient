@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/codecs/opus
+END
+opus.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/codecs/opus/opus.gypi
+END
+opus_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2945/trunk/src/modules/audio_coding/codecs/opus/opus_interface.c
+END

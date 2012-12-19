@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 53
+SILK_SDK_SRC_v1.0.8.zip
+sources
+.pc
+.patched_sources
+
+END

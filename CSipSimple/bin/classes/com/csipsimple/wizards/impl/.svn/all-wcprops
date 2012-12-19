@@ -1,0 +1,995 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2034/trunk/CSipSimple/src/com/csipsimple/wizards/impl
+END
+PeopleLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1982/trunk/CSipSimple/src/com/csipsimple/wizards/impl/PeopleLine.java
+END
+Fayn.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1581/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Fayn.java
+END
+VoipBel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1274/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipBel.java
+END
+MundoR.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1893/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MundoR.java
+END
+Fix2Mob.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1895/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Fix2Mob.java
+END
+Balses.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1245/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Balses.java
+END
+VoipMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1626/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipMS.java
+END
+XNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1340/trunk/CSipSimple/src/com/csipsimple/wizards/impl/XNet.java
+END
+BaseImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1752/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BaseImplementation.java
+END
+Pbxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1782/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Pbxes.java
+END
+Vegatel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1374/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Vegatel.java
+END
+Mondotalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1957/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Mondotalk.java
+END
+FringTalkTw.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1398/trunk/CSipSimple/src/com/csipsimple/wizards/impl/FringTalkTw.java
+END
+BGTel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1331/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BGTel.java
+END
+Orbtalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1253/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Orbtalk.java
+END
+MiTelefono.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1535/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MiTelefono.java
+END
+A1.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/A1.java
+END
+Sipkom.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1681/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sipkom.java
+END
+AccountBalanceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1611/trunk/CSipSimple/src/com/csipsimple/wizards/impl/AccountBalanceHelper.java
+END
+MyDivert.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1908/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MyDivert.java
+END
+SiptelPt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SiptelPt.java
+END
+Advanced.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1965/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Advanced.java
+END
+LolaWireless.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1889/trunk/CSipSimple/src/com/csipsimple/wizards/impl/LolaWireless.java
+END
+MagicJack.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MagicJack.java
+END
+UkrTelecom.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/UkrTelecom.java
+END
+Speakezi.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1769/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Speakezi.java
+END
+IpTel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/IpTel.java
+END
+IPshka.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/IPshka.java
+END
+DeltaThree.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/DeltaThree.java
+END
+InterTelecomGr.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1833/trunk/CSipSimple/src/com/csipsimple/wizards/impl/InterTelecomGr.java
+END
+MobileWiFi.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1961/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MobileWiFi.java
+END
+EasyCallGr.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1871/trunk/CSipSimple/src/com/csipsimple/wizards/impl/EasyCallGr.java
+END
+CongstarQSC.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1518/trunk/CSipSimple/src/com/csipsimple/wizards/impl/CongstarQSC.java
+END
+Nymgo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1242/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Nymgo.java
+END
+VoipMuch.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1470/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipMuch.java
+END
+FastVoip.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/FastVoip.java
+END
+Voocall.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1557/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Voocall.java
+END
+Ajtel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2012/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ajtel.java
+END
+EasyBell.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1624/trunk/CSipSimple/src/com/csipsimple/wizards/impl/EasyBell.java
+END
+Netelip.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Netelip.java
+END
+Optimus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1842/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Optimus.java
+END
+DvcNg.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/DvcNg.java
+END
+Ippi.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ippi.java
+END
+Fusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1987/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Fusion.java
+END
+Blueface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Blueface.java
+END
+BTone.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BTone.java
+END
+Telsome.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Telsome.java
+END
+NeufTalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/NeufTalk.java
+END
+Ecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1348/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ecs.java
+END
+Freeconet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Freeconet.java
+END
+Vanbergsystems.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Vanbergsystems.java
+END
+PlanetPhone.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/PlanetPhone.java
+END
+TeNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1957/trunk/CSipSimple/src/com/csipsimple/wizards/impl/TeNet.java
+END
+BelCentrale.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1626/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BelCentrale.java
+END
+Blicnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1750/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Blicnet.java
+END
+Broadsoft.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1518/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Broadsoft.java
+END
+ZengCn.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1502/trunk/CSipSimple/src/com/csipsimple/wizards/impl/ZengCn.java
+END
+Localphone.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Localphone.java
+END
+Modulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1882/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Modulus.java
+END
+Beeztel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1216/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Beeztel.java
+END
+Sipgate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sipgate.java
+END
+VPhone.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VPhone.java
+END
+TeleNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2034/trunk/CSipSimple/src/com/csipsimple/wizards/impl/TeleNative.java
+END
+CongstarTelekom.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1550/trunk/CSipSimple/src/com/csipsimple/wizards/impl/CongstarTelekom.java
+END
+DeltaTelecom.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1958/trunk/CSipSimple/src/com/csipsimple/wizards/impl/DeltaTelecom.java
+END
+Fritzbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2025/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Fritzbox.java
+END
+Innotel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Innotel.java
+END
+TOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1528/trunk/CSipSimple/src/com/csipsimple/wizards/impl/TOnline.java
+END
+Vitelity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1626/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Vitelity.java
+END
+Sonetel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sonetel.java
+END
+LiberTalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1727/trunk/CSipSimple/src/com/csipsimple/wizards/impl/LiberTalk.java
+END
+ZonPt.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/ZonPt.java
+END
+Svanto.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1595/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Svanto.java
+END
+MondotalkCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MondotalkCreate.java
+END
+ItalkWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1870/trunk/CSipSimple/src/com/csipsimple/wizards/impl/ItalkWorld.java
+END
+YouMagic.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1997/trunk/CSipSimple/src/com/csipsimple/wizards/impl/YouMagic.java
+END
+Phonzo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Phonzo.java
+END
+Callcentric.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1817/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Callcentric.java
+END
+EuroTelefon.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1331/trunk/CSipSimple/src/com/csipsimple/wizards/impl/EuroTelefon.java
+END
+Eutelia.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Eutelia.java
+END
+Sip2Sip.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1661/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sip2Sip.java
+END
+Messagenet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1392/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Messagenet.java
+END
+Ovh.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1781/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ovh.java
+END
+ReachPhones.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1518/trunk/CSipSimple/src/com/csipsimple/wizards/impl/ReachPhones.java
+END
+Haloo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1269/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Haloo.java
+END
+Sbohempevnalinko.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sbohempevnalinko.java
+END
+YesMy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1978/trunk/CSipSimple/src/com/csipsimple/wizards/impl/YesMy.java
+END
+AuthorizationImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1675/trunk/CSipSimple/src/com/csipsimple/wizards/impl/AuthorizationImplementation.java
+END
+IPComms.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/IPComms.java
+END
+Interphone365.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1240/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Interphone365.java
+END
+Mobex.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Mobex.java
+END
+HalooCentrala.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1269/trunk/CSipSimple/src/com/csipsimple/wizards/impl/HalooCentrala.java
+END
+SipMe.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1567/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SipMe.java
+END
+Zadarma.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1721/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Zadarma.java
+END
+Tecobu.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1713/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Tecobu.java
+END
+Betamax.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1838/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Betamax.java
+END
+Cryptel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1570/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Cryptel.java
+END
+CallRomania.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1874/trunk/CSipSimple/src/com/csipsimple/wizards/impl/CallRomania.java
+END
+SipWise.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SipWise.java
+END
+Tlenofon.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Tlenofon.java
+END
+Freephonie.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1678/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Freephonie.java
+END
+Catitel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1664/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Catitel.java
+END
+Flowroute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1350/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Flowroute.java
+END
+OnSip.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/OnSip.java
+END
+MWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1890/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MWeb.java
+END
+Aaisp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1960/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Aaisp.java
+END
+Gradwell.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Gradwell.java
+END
+Sipnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sipnet.java
+END
+Amivox.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1265/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Amivox.java
+END
+MultifonRu.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1918/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MultifonRu.java
+END
+Viva.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Viva.java
+END
+Voipdoup.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1785/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Voipdoup.java
+END
+WiMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/WiMobile.java
+END
+Gizmo5.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1331/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Gizmo5.java
+END
+Ekiga.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ekiga.java
+END
+Mobile4U.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1397/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Mobile4U.java
+END
+VoipPlanet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1501/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipPlanet.java
+END
+Vono.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Vono.java
+END
+PTTJapan.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1979/trunk/CSipSimple/src/com/csipsimple/wizards/impl/PTTJapan.java
+END
+Ip2Mobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Ip2Mobile.java
+END
+OSTN.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2010/trunk/CSipSimple/src/com/csipsimple/wizards/impl/OSTN.java
+END
+MegafonBg.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2029/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MegafonBg.java
+END
+Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1585/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Local.java
+END
+Scarlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Scarlet.java
+END
+ITTelenet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/ITTelenet.java
+END
+Pennytel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Pennytel.java
+END
+SimpleImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1624/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SimpleImplementation.java
+END
+OptimumLightPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2011/trunk/CSipSimple/src/com/csipsimple/wizards/impl/OptimumLightPath.java
+END
+NetfoneCa.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1982/trunk/CSipSimple/src/com/csipsimple/wizards/impl/NetfoneCa.java
+END
+Smarto.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Smarto.java
+END
+MegaVoip.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1737/trunk/CSipSimple/src/com/csipsimple/wizards/impl/MegaVoip.java
+END
+Cellip.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Cellip.java
+END
+VoipTiger.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1464/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipTiger.java
+END
+Freespeech.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1960/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Freespeech.java
+END
+Tanstagi.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1348/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Tanstagi.java
+END
+AlternateServerImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1348/trunk/CSipSimple/src/com/csipsimple/wizards/impl/AlternateServerImplementation.java
+END
+BroadVoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1626/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BroadVoice.java
+END
+SipCel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2023/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SipCel.java
+END
+Basic.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1518/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Basic.java
+END
+FreelyCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2024/trunk/CSipSimple/src/com/csipsimple/wizards/impl/FreelyCall.java
+END
+VoipTel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1570/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipTel.java
+END
+Pfingo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Pfingo.java
+END
+VoipLlama.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1550/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipLlama.java
+END
+Pozitel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Pozitel.java
+END
+Odorik.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Odorik.java
+END
+OneWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1961/trunk/CSipSimple/src/com/csipsimple/wizards/impl/OneWorld.java
+END
+VoipNor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1309/trunk/CSipSimple/src/com/csipsimple/wizards/impl/VoipNor.java
+END
+Globtelecom.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1280/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Globtelecom.java
+END
+Rapidvox.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Rapidvox.java
+END
+OXO810.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/OXO810.java
+END
+Keyyo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Keyyo.java
+END
+Sapo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Sapo.java
+END
+SipSorcery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1837/trunk/CSipSimple/src/com/csipsimple/wizards/impl/SipSorcery.java
+END
+Zeng.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1410/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Zeng.java
+END
+Chattaboxx.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1869/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Chattaboxx.java
+END
+DellVoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1864/trunk/CSipSimple/src/com/csipsimple/wizards/impl/DellVoice.java
+END
+Expert.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1920/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Expert.java
+END
+IiNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1626/trunk/CSipSimple/src/com/csipsimple/wizards/impl/IiNet.java
+END
+Cotas.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1244/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Cotas.java
+END
+AccountCreationWebview.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1549/trunk/CSipSimple/src/com/csipsimple/wizards/impl/AccountCreationWebview.java
+END
+BgOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2029/trunk/CSipSimple/src/com/csipsimple/wizards/impl/BgOpen.java
+END
+CamundaNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/wizards/impl/CamundaNet.java
+END
+AbcVoip.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1263/trunk/CSipSimple/src/com/csipsimple/wizards/impl/AbcVoip.java
+END
+Anv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1841/trunk/CSipSimple/src/com/csipsimple/wizards/impl/Anv.java
+END
+FreephoneLineCa.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1709/trunk/CSipSimple/src/com/csipsimple/wizards/impl/FreephoneLineCa.java
+END

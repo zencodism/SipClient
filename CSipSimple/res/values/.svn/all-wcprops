@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2019/trunk/CSipSimple/res/values
+END
+in_call_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1973/trunk/CSipSimple/res/values/in_call_strings.xml
+END
+wizard_cryptel_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1332/trunk/CSipSimple/res/values/wizard_cryptel_strings.xml
+END
+wizard_callcentric_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/171/trunk/CSipSimple/res/values/wizard_callcentric_strings.xml
+END
+not_translate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1163/trunk/CSipSimple/res/values/not_translate.xml
+END
+layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1659/trunk/CSipSimple/res/values/layout.xml
+END
+bools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1641/trunk/CSipSimple/res/values/bools.xml
+END
+descriptions_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1659/trunk/CSipSimple/res/values/descriptions_strings.xml
+END
+dimens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1721/trunk/CSipSimple/res/values/dimens.xml
+END
+messages_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values/messages_strings.xml
+END
+warn_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1756/trunk/CSipSimple/res/values/warn_strings.xml
+END
+api_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1331/trunk/CSipSimple/res/values/api_strings.xml
+END
+wizard_sipgate_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1278/trunk/CSipSimple/res/values/wizard_sipgate_strings.xml
+END
+wizard_fritz_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1644/trunk/CSipSimple/res/values/wizard_fritz_strings.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1961/trunk/CSipSimple/res/values/strings.xml
+END
+prefs_values.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2019/trunk/CSipSimple/res/values/prefs_values.xml
+END
+colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1721/trunk/CSipSimple/res/values/colors.xml
+END
+welcome_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1163/trunk/CSipSimple/res/values/welcome_strings.xml
+END
+wizard_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/231/trunk/CSipSimple/res/values/wizard_strings.xml
+END
+wizard_basic_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/907/trunk/CSipSimple/res/values/wizard_basic_strings.xml
+END
+tests_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1625/trunk/CSipSimple/res/values/tests_strings.xml
+END
+wizard_onsip_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1285/trunk/CSipSimple/res/values/wizard_onsip_strings.xml
+END
+wizard_common_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1619/trunk/CSipSimple/res/values/wizard_common_strings.xml
+END
+filters_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1994/trunk/CSipSimple/res/values/filters_strings.xml
+END
+xliff_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1372/trunk/CSipSimple/res/values/xliff_strings.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1946/trunk/CSipSimple/res/values/styles.xml
+END
+wizard_ovh_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/854/trunk/CSipSimple/res/values/wizard_ovh_strings.xml
+END
+acct_status_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1370/trunk/CSipSimple/res/values/acct_status_strings.xml
+END
+prefs_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2019/trunk/CSipSimple/res/values/prefs_strings.xml
+END
+wizard_authorization_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/CSipSimple/res/values/wizard_authorization_strings.xml
+END
+log_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1634/trunk/CSipSimple/res/values/log_strings.xml
+END
+windows_styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1468/trunk/CSipSimple/res/values/windows_styles.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1163/trunk/CSipSimple/res/values/attrs.xml
+END
+wizard_advanced_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1341/trunk/CSipSimple/res/values/wizard_advanced_strings.xml
+END
+wizard_expert_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1920/trunk/CSipSimple/res/values/wizard_expert_strings.xml
+END
+arrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1761/trunk/CSipSimple/res/values/arrays.xml
+END
+wizard_iinet_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/317/trunk/CSipSimple/res/values/wizard_iinet_strings.xml
+END
+wizard_sonetel_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/965/trunk/CSipSimple/res/values/wizard_sonetel_strings.xml
+END
+wizard_ecs_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/305/trunk/CSipSimple/res/values/wizard_ecs_strings.xml
+END
+filters_choices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1994/trunk/CSipSimple/res/values/filters_choices.xml
+END
+wizard_sipme_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1511/trunk/CSipSimple/res/values/wizard_sipme_strings.xml
+END

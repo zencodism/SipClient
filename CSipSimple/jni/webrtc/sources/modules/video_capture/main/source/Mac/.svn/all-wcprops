@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2904/trunk/src/modules/video_capture/main/source/Mac
+END
+video_capture_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/580/trunk/src/modules/video_capture/main/source/Mac/video_capture_mac.h
+END
+video_capture_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/video_capture_mac.mm
+END

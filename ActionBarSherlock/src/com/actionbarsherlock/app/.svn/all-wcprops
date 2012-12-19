@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1777/trunk/ActionBarSherlock/src/com/actionbarsherlock/app
+END
+ActionBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/ActionBar.java
+END
+SherlockListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockListActivity.java
+END
+SherlockPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockPreferenceActivity.java
+END
+SherlockExpandableListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockExpandableListActivity.java
+END
+SherlockActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockActivity.java
+END
+SherlockListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockListFragment.java
+END
+SherlockFragmentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1777/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockFragmentActivity.java
+END
+SherlockFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1640/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockFragment.java
+END
+SherlockDialogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1530/trunk/ActionBarSherlock/src/com/actionbarsherlock/app/SherlockDialogFragment.java
+END

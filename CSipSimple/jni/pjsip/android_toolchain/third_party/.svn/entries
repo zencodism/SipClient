@@ -1,0 +1,80 @@
+10
+
+dir
+2036
+http://csipsimple.googlecode.com/svn/trunk/CSipSimple/jni/pjsip/android_toolchain/third_party
+http://csipsimple.googlecode.com/svn
+
+
+
+2012-09-09T22:44:32.190938Z
+1886
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+g7221
+dir
+
+speex
+dir
+
+gsm
+dir
+
+Android.mk
+file
+
+
+
+
+2012-11-29T00:36:32.000000Z
+ebe8bb39d432e14654e8d520369f8724
+2011-10-25T17:37:53.134584Z
+1070
+r3gis.3r@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+979
+
+srtp
+dir
+
+resample
+dir
+
+ilbc
+dir
+

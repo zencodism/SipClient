@@ -1,0 +1,19 @@
+/home/dra/TangramCare/CSIPSimple/CSipSimple/bin/CSipSimple-debug-unaligned.apk : \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/bin/CSipSimple.ap_ \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/bin/classes.dex \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/src/com/csipsimple/api/NOTICE \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/src/org/webrtc/videoengine/README \
+/home/dra/TangramCare/CSIPSimple/ActionBarSherlock/bin/classes.jar \
+/home/dra/TangramCare/CSIPSimple/ActionBarSherlock/libs/android-support-v4.jar \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi/libpj_opensl_dev.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi/libpjsipjni.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi/libstlport_shared.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi-v7a/libpj_opensl_dev.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi-v7a/libpjsipjni.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/armeabi-v7a/libstlport_shared.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/x86/libpj_opensl_dev.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/x86/libpjsipjni.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/x86/libstlport_shared.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/mips/libpj_opensl_dev.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/mips/libpjsipjni.so \
+/home/dra/TangramCare/CSIPSimple/CSipSimple/libs/mips/libstlport_shared.so \

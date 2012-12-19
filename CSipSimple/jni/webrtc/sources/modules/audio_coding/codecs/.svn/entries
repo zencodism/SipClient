@@ -1,0 +1,83 @@
+10
+
+dir
+2948
+http://webrtc.googlecode.com/svn/trunk/src/modules/audio_coding/codecs
+http://webrtc.googlecode.com/svn
+
+
+
+2012-10-18T10:00:52.078790Z
+2945
+tina.legrand@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4adac7df-926f-26a2-2b94-8c16560cd09d
+
+g722
+dir
+
+opus
+dir
+
+cng
+dir
+
+pcm16b
+dir
+
+ilbc
+dir
+
+OWNERS
+file
+
+
+
+
+2012-11-29T00:37:50.000000Z
+a8abc576878de41ee2bcf813160e4229
+2011-08-10T05:16:31.362289Z
+342
+andrew@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65
+
+isac
+dir
+
+g711
+dir
+

@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 159
+.classpath
+.project
+PSJUA API.url
+Saved Sources
+Saved from Phone
+bin
+gen
+libpjsipjni
+libs
+local.properties
+obj
+xxx.map
+.settings
+.cproject
+reports
+javadoc.xml
+
+K 13
+svn:mergeinfo
+V 25
+/branches/dc3-539:507-531
+END

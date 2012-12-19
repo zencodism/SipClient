@@ -1,0 +1,80 @@
+10
+
+dir
+2948
+http://webrtc.googlecode.com/svn/trunk/src/video_engine/test/auto_test
+http://webrtc.googlecode.com/svn
+
+
+
+2012-10-17T11:05:54.653389Z
+2938
+mflodman@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4adac7df-926f-26a2-2b94-8c16560cd09d
+
+primitives
+dir
+
+media
+dir
+
+interface
+dir
+
+source
+dir
+
+android
+dir
+
+vie_auto_test.gypi
+file
+
+
+
+
+2012-11-29T00:37:43.000000Z
+e4981925d426960924dafd838e7ce121
+2012-10-05T12:34:09.328676Z
+2878
+phoglund@webrtc.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5170
+
+automated
+dir
+

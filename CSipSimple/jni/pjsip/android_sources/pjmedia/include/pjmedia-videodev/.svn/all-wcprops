@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1327/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev
+END
+webrtc_android_capture_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1163/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev/webrtc_android_capture_dev.h
+END
+opengl_video_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1070/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev/opengl_video_dev.h
+END
+android_screen_capture_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1327/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev/android_screen_capture_dev.h
+END
+android_capture_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1070/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev/android_capture_dev.h
+END
+webrtc_android_render_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1163/trunk/CSipSimple/jni/pjsip/android_sources/pjmedia/include/pjmedia-videodev/webrtc_android_render_dev.h
+END

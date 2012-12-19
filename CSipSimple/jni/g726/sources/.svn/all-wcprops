@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources
+END
+g72x.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g72x.c
+END
+g726_40.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g726_40.c
+END
+g726_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g726_32.c
+END
+g726_24.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g726_24.c
+END
+g726_16.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g726_16.c
+END
+g72x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g72x.h
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/g711.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1137/trunk/CSipSimple/jni/g726/sources/private.h
+END

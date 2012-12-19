@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2772/trunk/src/test/fuzz/getusermedia
+END
+common
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2772/trunk/src/test/fuzz/getusermedia/common
+END
+fuzz_main_run.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2772/trunk/src/test/fuzz/getusermedia/fuzz_main_run.py
+END
+get_user_media_fuzz.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2772/trunk/src/test/fuzz/getusermedia/get_user_media_fuzz.py
+END

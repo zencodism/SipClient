@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2446/trunk/src/common_audio/resampler
+END
+resampler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1278/trunk/src/common_audio/resampler/resampler_unittest.cc
+END
+resampler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1002/trunk/src/common_audio/resampler/resampler.cc
+END
+resampler.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2446/trunk/src/common_audio/resampler/resampler.gypi
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/959/trunk/src/common_audio/resampler/Android.mk
+END

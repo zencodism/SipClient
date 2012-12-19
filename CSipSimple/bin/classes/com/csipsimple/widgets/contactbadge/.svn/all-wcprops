@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge
+END
+QuickContactBadge.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1845/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/QuickContactBadge.java
+END
+ContactBadgeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1220/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/ContactBadgeContract.java
+END
+ContactBadge3.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1228/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/ContactBadge3.java
+END
+ContactBadge5.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1347/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/ContactBadge5.java
+END
+OverlayedQuickContactBadge.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1347/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/OverlayedQuickContactBadge.java
+END
+OverlayedImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1283/trunk/CSipSimple/src/com/csipsimple/widgets/contactbadge/OverlayedImageView.java
+END

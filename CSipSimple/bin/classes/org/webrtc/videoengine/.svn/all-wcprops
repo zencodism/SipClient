@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2019/trunk/CSipSimple/src/org/webrtc/videoengine
+END
+CaptureCapabilityAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1775/trunk/CSipSimple/src/org/webrtc/videoengine/CaptureCapabilityAndroid.java
+END
+VideoCaptureDeviceInfoAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2019/trunk/CSipSimple/src/org/webrtc/videoengine/VideoCaptureDeviceInfoAndroid.java
+END
+ViERenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1775/trunk/CSipSimple/src/org/webrtc/videoengine/ViERenderer.java
+END
+VideoCaptureAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1775/trunk/CSipSimple/src/org/webrtc/videoengine/VideoCaptureAndroid.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1239/trunk/CSipSimple/src/org/webrtc/videoengine/README
+END
+ViEAndroidGLES20.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1648/trunk/CSipSimple/src/org/webrtc/videoengine/ViEAndroidGLES20.java
+END
+ViESurfaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1775/trunk/CSipSimple/src/org/webrtc/videoengine/ViESurfaceRenderer.java
+END

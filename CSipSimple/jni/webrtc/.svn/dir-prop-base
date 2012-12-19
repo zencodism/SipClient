@@ -1,0 +1,12 @@
+K 13
+svn:externals
+V 58
+sources -r2948 http://webrtc.googlecode.com/svn/trunk/src
+
+K 10
+svn:ignore
+V 21
+.pc
+.patched_sources
+
+END

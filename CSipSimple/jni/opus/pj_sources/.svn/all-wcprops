@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2015/trunk/CSipSimple/jni/opus/pj_sources
+END
+pj_opus.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2015/trunk/CSipSimple/jni/opus/pj_sources/pj_opus.c
+END
+pj_opus.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1597/trunk/CSipSimple/jni/opus/pj_sources/pj_opus.h
+END

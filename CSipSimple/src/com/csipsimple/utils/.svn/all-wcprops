@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2030/trunk/CSipSimple/src/com/csipsimple/utils
+END
+ContactsAsyncHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1904/trunk/CSipSimple/src/com/csipsimple/utils/ContactsAsyncHelper.java
+END
+DialingFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2010/trunk/CSipSimple/src/com/csipsimple/utils/DialingFeedback.java
+END
+CallLogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1994/trunk/CSipSimple/src/com/csipsimple/utils/CallLogHelper.java
+END
+PreferencesProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1827/trunk/CSipSimple/src/com/csipsimple/utils/PreferencesProviderWrapper.java
+END
+SmileyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/SmileyParser.java
+END
+CallsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/CallsUtils.java
+END
+UriUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1963/trunk/CSipSimple/src/com/csipsimple/utils/UriUtils.java
+END
+Columns.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/Columns.java
+END
+TimerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1686/trunk/CSipSimple/src/com/csipsimple/utils/TimerWrapper.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1318/trunk/CSipSimple/src/com/csipsimple/utils/Log.java
+END
+RewriterPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1505/trunk/CSipSimple/src/com/csipsimple/utils/RewriterPlugin.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/Base64.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/MD5.java
+END
+ExtraPlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2009/trunk/CSipSimple/src/com/csipsimple/utils/ExtraPlugins.java
+END
+Ringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/Ringer.java
+END
+CallHandlerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1563/trunk/CSipSimple/src/com/csipsimple/utils/CallHandlerPlugin.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/ArrayUtils.java
+END
+PreferencesWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2028/trunk/CSipSimple/src/com/csipsimple/utils/PreferencesWrapper.java
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1850/trunk/CSipSimple/src/com/csipsimple/utils/Theme.java
+END
+PhoneCapabilityTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1641/trunk/CSipSimple/src/com/csipsimple/utils/PhoneCapabilityTester.java
+END
+NightlyUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1760/trunk/CSipSimple/src/com/csipsimple/utils/NightlyUpdater.java
+END
+Threading.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/utils/Threading.java
+END
+SipProfileJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1674/trunk/CSipSimple/src/com/csipsimple/utils/SipProfileJson.java
+END
+AccountListUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1685/trunk/CSipSimple/src/com/csipsimple/utils/AccountListUtils.java
+END
+Compatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2030/trunk/CSipSimple/src/com/csipsimple/utils/Compatibility.java
+END
+CustomDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2028/trunk/CSipSimple/src/com/csipsimple/utils/CustomDistribution.java
+END
+CollectLogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1674/trunk/CSipSimple/src/com/csipsimple/utils/CollectLogs.java
+END

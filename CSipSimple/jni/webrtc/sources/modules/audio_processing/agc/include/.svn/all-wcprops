@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1567/trunk/src/modules/audio_processing/agc/include
+END
+gain_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1567/trunk/src/modules/audio_processing/agc/include/gain_control.h
+END

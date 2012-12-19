@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1905/trunk/CSipSimple/src/com/csipsimple/ui/account
+END
+AccountsChooserListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1565/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsChooserListActivity.java
+END
+AccountsEditList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1406/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsEditList.java
+END
+AccountsEditListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1327/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsEditListAdapter.java
+END
+AccountsChooserListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1896/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsChooserListFragment.java
+END
+AccountEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountEdit.java
+END
+AccountsEditListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1905/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsEditListFragment.java
+END
+AccountsLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1773/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountsLoader.java
+END
+AccountEditFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1406/trunk/CSipSimple/src/com/csipsimple/ui/account/AccountEditFragment.java
+END

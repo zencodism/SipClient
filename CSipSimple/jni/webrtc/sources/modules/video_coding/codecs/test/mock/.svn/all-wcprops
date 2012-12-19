@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1126/trunk/src/modules/video_coding/codecs/test/mock
+END
+mock_packet_manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1126/trunk/src/modules/video_coding/codecs/test/mock/mock_packet_manipulator.h
+END

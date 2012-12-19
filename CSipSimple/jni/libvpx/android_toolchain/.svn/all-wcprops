@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2009/trunk/CSipSimple/jni/libvpx/android_toolchain
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2009/trunk/CSipSimple/jni/libvpx/android_toolchain/Android.mk
+END

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp
+END
+uas-answer-180-multiple-fmts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-180-multiple-fmts.xml
+END
+uas-subscribe-notify-terminate.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-notify-terminate.py
+END
+uas-subscribe-multipart-notify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-multipart-notify.xml
+END
+uas-answer-200-reinvite-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-reinvite-without-sdp.xml
+END
+strict-route.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/strict-route.py
+END
+uas-forked-200.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/4183/pjproject/trunk/tests/pjsua/scripts-sipp/uas-forked-200.xml
+END
+uac-message-no-body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/2651/pjproject/trunk/tests/pjsua/scripts-sipp/uac-message-no-body.xml
+END
+uas-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/2392/pjproject/trunk/tests/pjsua/scripts-sipp/uas-template.xml
+END
+uac-options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/2954/pjproject/trunk/tests/pjsua/scripts-sipp/uac-options.xml
+END
+uas-reinv-glare.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3382/pjproject/trunk/tests/pjsua/scripts-sipp/uas-reinv-glare.xml
+END
+transfer-attended.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/transfer-attended.py
+END
+strict-route.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/strict-route.xml
+END
+uac-inv-multiple-require.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-multiple-require.xml
+END
+uac-inv-two-media-but-one-disabled-no-rtpmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-two-media-but-one-disabled-no-rtpmap.py
+END
+uas-reinv-and-ack-same-branch-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/!svn/ver/4183/pjproject/trunk/tests/pjsua/scripts-sipp/uas-reinv-and-ack-same-branch-without-sdp.xml
+END
+uas-mwi.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-mwi.py
+END
+transfer-attended.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/4178/pjproject/trunk/tests/pjsua/scripts-sipp/transfer-attended.xml
+END
+transfer-unattended.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/4178/pjproject/trunk/tests/pjsua/scripts-sipp/transfer-unattended.xml
+END
+uas-subscribe-refresh-481.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-refresh-481.xml
+END
+uas-answer-200-multiple-fmts-support-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-multiple-fmts-support-update.xml
+END
+uas-early-bye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/2650/pjproject/trunk/tests/pjsua/scripts-sipp/uas-early-bye.xml
+END
+uas-mwi-0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-mwi-0.xml
+END
+uas-mwi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-mwi.xml
+END
+uas-timer-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/3215/pjproject/trunk/tests/pjsua/scripts-sipp/uas-timer-update.xml
+END
+uas-auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-auth.xml
+END
+uac-subscribe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/2954/pjproject/trunk/tests/pjsua/scripts-sipp/uac-subscribe.xml
+END
+uac-inv-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-without-sdp.xml
+END
+uac-reinvite-bad-via-branch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/2953/pjproject/trunk/tests/pjsua/scripts-sipp/uac-reinvite-bad-via-branch.xml
+END
+uas-subscribe-late-notify.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-late-notify.py
+END
+uas-answer-200-update-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-update-without-sdp.xml
+END
+uas-reinv-glare.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-reinv-glare.py
+END
+uas-inv_401_retry_after_100.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-inv_401_retry_after_100.xml
+END
+uas-subscribe-terminated-retry.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-terminated-retry.py
+END
+uas-subscribe-late-notify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-late-notify.xml
+END
+uas-reinv-no-media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/3383/pjproject/trunk/tests/pjsua/scripts-sipp/uas-reinv-no-media.xml
+END
+uas-forked-100rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/4183/pjproject/trunk/tests/pjsua/scripts-sipp/uas-forked-100rel.xml
+END
+uas-answer-200-inv-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/3208/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-inv-without-sdp.xml
+END
+uas-subscribe-notify-terminate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/2823/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-notify-terminate.xml
+END
+uas-cancel-no-final.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-cancel-no-final.py
+END
+uas-subscribe-terminated-retry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/2959/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-terminated-retry.xml
+END
+transfer-unattended.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/transfer-unattended.py
+END
+uas-subscribe-refresh-481.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-refresh-481.py
+END
+uas-mwi-0.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-mwi-0.py
+END
+uas-prack_fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/4183/pjproject/trunk/tests/pjsua/scripts-sipp/uas-prack_fork.xml
+END
+uas-cancel-no-final.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/2646/pjproject/trunk/tests/pjsua/scripts-sipp/uas-cancel-no-final.xml
+END
+uac-ticket-1148.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-ticket-1148.py
+END
+uac-inv-two-media-but-one-disabled-no-rtpmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-two-media-but-one-disabled-no-rtpmap.xml
+END
+uas-auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-auth.py
+END
+uac-inv-without-sdp.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-without-sdp.py
+END
+uas-422-then-200-bad-se.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/4184/pjproject/trunk/tests/pjsua/scripts-sipp/uas-422-then-200-bad-se.xml
+END
+uas-answer-200-update-without-sdp.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-update-without-sdp.py
+END
+uac-reinvite-port-0-bad-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/2927/pjproject/trunk/tests/pjsua/scripts-sipp/uac-reinvite-port-0-bad-sdp.xml
+END
+uac-inv-and-ack-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/3208/pjproject/trunk/tests/pjsua/scripts-sipp/uac-inv-and-ack-without-sdp.xml
+END
+uac-ticket-1148.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uac-ticket-1148.xml
+END
+uas-subscribe-multipart-notify.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-subscribe-multipart-notify.py
+END
+uas-answer-200-reinvite-without-sdp.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/4188/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-reinvite-without-sdp.py
+END
+uas-answer-200-multiple-fmts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-200-multiple-fmts.xml
+END
+uas-answer-180-multiple-fmts-support-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/!svn/ver/4177/pjproject/trunk/tests/pjsua/scripts-sipp/uas-answer-180-multiple-fmts-support-update.xml
+END
+uas-inv-answered-with-srtp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/4183/pjproject/trunk/tests/pjsua/scripts-sipp/uas-inv-answered-with-srtp.xml
+END
+uac-bad-ack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/2915/pjproject/trunk/tests/pjsua/scripts-sipp/uac-bad-ack.xml
+END
+uas-timer-reinvite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/3215/pjproject/trunk/tests/pjsua/scripts-sipp/uas-timer-reinvite.xml
+END
+uas-reinv-and-ack-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/3208/pjproject/trunk/tests/pjsua/scripts-sipp/uas-reinv-and-ack-without-sdp.xml
+END

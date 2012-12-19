@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2032/trunk/CSipSimple/jni/webrtc/pj_sources
+END
+webrtc_coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1927/trunk/CSipSimple/jni/webrtc/pj_sources/webrtc_coder.cpp
+END
+webrtc_codec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2032/trunk/CSipSimple/jni/webrtc/pj_sources/webrtc_codec.cpp
+END
+webrtc_coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1927/trunk/CSipSimple/jni/webrtc/pj_sources/webrtc_coder.h
+END
+webrtc_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1070/trunk/CSipSimple/jni/webrtc/pj_sources/webrtc_codec.h
+END

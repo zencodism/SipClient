@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view
+END
+MenuInflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/MenuInflater.java
+END
+SubMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/SubMenu.java
+END
+CollapsibleActionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/CollapsibleActionView.java
+END
+ActionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/ActionMode.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/MenuItem.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/Menu.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/Window.java
+END
+ActionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1405/trunk/ActionBarSherlock/src/com/actionbarsherlock/view/ActionProvider.java
+END

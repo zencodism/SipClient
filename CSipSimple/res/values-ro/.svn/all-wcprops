@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1828/trunk/CSipSimple/res/values-ro
+END
+wizard_common_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/945/trunk/CSipSimple/res/values-ro/wizard_common_strings.xml
+END
+filters_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1465/trunk/CSipSimple/res/values-ro/filters_strings.xml
+END
+wizard_iinet_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/839/trunk/CSipSimple/res/values-ro/wizard_iinet_strings.xml
+END
+acct_status_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1163/trunk/CSipSimple/res/values-ro/acct_status_strings.xml
+END
+wizard_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/839/trunk/CSipSimple/res/values-ro/wizard_strings.xml
+END
+in_call_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1828/trunk/CSipSimple/res/values-ro/in_call_strings.xml
+END
+log_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1372/trunk/CSipSimple/res/values-ro/log_strings.xml
+END

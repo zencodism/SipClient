@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2032/trunk/CSipSimple/jni/webrtc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1879/trunk/CSipSimple/jni/webrtc/Makefile
+END
+android-webrtc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2019/trunk/CSipSimple/jni/webrtc/android-webrtc.mk
+END

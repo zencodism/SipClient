@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2916/trunk/src/common_video/libyuv/include
+END
+scaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2916/trunk/src/common_video/libyuv/include/scaler.h
+END
+webrtc_libyuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2871/trunk/src/common_video/libyuv/include/webrtc_libyuv.h
+END

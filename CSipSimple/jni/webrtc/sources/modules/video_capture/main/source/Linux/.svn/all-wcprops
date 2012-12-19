@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2854/trunk/src/modules/video_capture/main/source/Linux
+END
+video_capture_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2574/trunk/src/modules/video_capture/main/source/Linux/video_capture_linux.cc
+END
+device_info_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2854/trunk/src/modules/video_capture/main/source/Linux/device_info_linux.cc
+END
+video_capture_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1811/trunk/src/modules/video_capture/main/source/Linux/video_capture_linux.h
+END
+device_info_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1811/trunk/src/modules/video_capture/main/source/Linux/device_info_linux.h
+END

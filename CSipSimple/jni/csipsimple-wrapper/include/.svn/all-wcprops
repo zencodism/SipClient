@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2031/trunk/CSipSimple/jni/csipsimple-wrapper/include
+END
+zrtp_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1973/trunk/CSipSimple/jni/csipsimple-wrapper/include/zrtp_android.h
+END
+android_logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1573/trunk/CSipSimple/jni/csipsimple-wrapper/include/android_logger.h
+END
+call_recorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1613/trunk/CSipSimple/jni/csipsimple-wrapper/include/call_recorder.h
+END
+csipsimple_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1613/trunk/CSipSimple/jni/csipsimple-wrapper/include/csipsimple_internal.h
+END
+ringback_tone.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1573/trunk/CSipSimple/jni/csipsimple-wrapper/include/ringback_tone.h
+END
+csipsimple-wrapper.i
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2031/trunk/CSipSimple/jni/csipsimple-wrapper/include/csipsimple-wrapper.i
+END
+csipsimple_codecs_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1854/trunk/CSipSimple/jni/csipsimple-wrapper/include/csipsimple_codecs_utils.h
+END
+pjsua_jni_addons.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2006/trunk/CSipSimple/jni/csipsimple-wrapper/include/pjsua_jni_addons.h
+END
+zrtp_android_callback.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2031/trunk/CSipSimple/jni/csipsimple-wrapper/include/zrtp_android_callback.h
+END

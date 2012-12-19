@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2904/trunk/src/modules/video_capture/main/source/Mac/QTKit
+END
+video_capture_qtkit_info_objc.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2904/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_info_objc.mm
+END
+video_capture_qtkit_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_info.h
+END
+video_capture_qtkit_objc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1145/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_objc.h
+END
+video_capture_qtkit_info.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_info.mm
+END
+video_capture_qtkit_objc.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1725/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_objc.mm
+END
+video_capture_qtkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit.h
+END
+video_capture_qtkit.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2569/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit.mm
+END
+video_capture_qtkit_utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_utility.h
+END
+video_capture_recursive_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_recursive_lock.h
+END
+video_capture_recursive_lock.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_recursive_lock.mm
+END
+video_capture_qtkit_info_objc.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1819/trunk/src/modules/video_capture/main/source/Mac/QTKit/video_capture_qtkit_info_objc.h
+END

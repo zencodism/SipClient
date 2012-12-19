@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2018/trunk/CSipSimple/jni/ffmpeg/patches
+END
+001arm_asm_native_size_return.diff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2018/trunk/CSipSimple/jni/ffmpeg/patches/001arm_asm_native_size_return.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1875/trunk/CSipSimple/jni/ffmpeg/patches/series
+END
+000arm_asm_ndk.diff
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2018/trunk/CSipSimple/jni/ffmpeg/patches/000arm_asm_ndk.diff
+END

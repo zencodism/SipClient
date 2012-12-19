@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2034/trunk/CSipSimple
+END
+.android2po
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/377/trunk/CSipSimple/.android2po
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1163/trunk/CSipSimple/proguard.cfg
+END
+.android2po_header
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/267/trunk/CSipSimple/.android2po_header
+END
+COPYING_ALTERNATE_IF_PJSIP_LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1215/trunk/CSipSimple/COPYING_ALTERNATE_IF_PJSIP_LICENSE
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1215/trunk/CSipSimple/README
+END
+.pmd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1163/trunk/CSipSimple/.pmd
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1455/trunk/CSipSimple/build.xml
+END
+svn-revision.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1085/trunk/CSipSimple/svn-revision.build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1163/trunk/CSipSimple/.classpath
+END
+PlaceHolder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1945/trunk/CSipSimple/PlaceHolder.txt
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1738/trunk/CSipSimple/project.properties
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1936/trunk/CSipSimple/lint.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2019/trunk/CSipSimple/AndroidManifest.xml
+END
+dispatch_shared_libs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2009/trunk/CSipSimple/dispatch_shared_libs.sh
+END
+COPYING_GPL
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1215/trunk/CSipSimple/COPYING_GPL
+END
+nightly.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1572/trunk/CSipSimple/nightly.build.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/277/trunk/CSipSimple/.checkstyle
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2009/trunk/CSipSimple/Makefile
+END
