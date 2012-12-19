@@ -1,9 +1,9 @@
 SipClient
 =========
 
-CSIPSimple fork with dependant projects
+CSIPSimple fork with dependant projects. Already built debug version with dependencies, you may just use debug apk file.
 
-To build: 
+In case you need to build: 
 
 0. Have Android SDK and NDK downloaded and (SDK) compiled.
 
